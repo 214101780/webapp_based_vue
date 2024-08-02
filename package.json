@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "diff": "^5.2.0",
     "jquery": "^3.7.1",
     "vercel": "^35.2.2",
     "vue": "^3.4.35",
